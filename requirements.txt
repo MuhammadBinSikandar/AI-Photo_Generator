@@ -1,0 +1,5 @@
+upstash-redis
+python-decouple
+jupyter
+replicate
+pillow
